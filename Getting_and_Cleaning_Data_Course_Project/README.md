@@ -8,10 +8,10 @@ This repository includes 4 files, the R script named `run_analysis.R`, this READ
 
 | Name           | File           | Link                                                                      |
 |------------------------|------------------------|------------------------|
-| R Script       | run_analysis.R | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/Getting_and_Cleaning_Data_Course_Project/blob/main/run_analysis.R) |
-| Read Me file   | README.md      | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/Getting_and_Cleaning_Data_Course_Project/blob/main/README.md)      |
-| CodeBook file  | CodeBook.md    | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/Getting_and_Cleaning_Data_Course_Project/blob/main/CodeBook.md)    |
-| Tidy Data file | tidydata.txt   | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/Getting_and_Cleaning_Data_Course_Project/blob/main/tidyData.txt)   |
+| R Script       | run_analysis.R | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/blob/main/Getting_and_Cleaning_Data_Course_Project/run_analysis.R) |
+| Read Me file   | README.md      | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/blob/main/Getting_and_Cleaning_Data_Course_Project/README.md)      |
+| CodeBook file  | CodeBook.md    | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/blob/main/Getting_and_Cleaning_Data_Course_Project/CodeBook.md)    |
+| Tidy Data file | tidydata.txt   | [Link](https://github.com/TiagoAdriaNunes/datasciencecoursera/blob/main/Getting_and_Cleaning_Data_Course_Project/tidyData.txt)   |
 
 ## Getting and Cleaning Wearables Computing Data
 
